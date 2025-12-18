@@ -34,3 +34,5 @@ build/
 
 #environment vars
 .env
+
+sample.txt
