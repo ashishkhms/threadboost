@@ -1,5 +1,4 @@
-package dto;
-
+package com.ashish.threadboost.dto;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -11,12 +10,11 @@ import java.math.BigDecimal;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-public class UserResponseDto {
-    Long id;
-
+public class UserRequestDto {
     String userName;
 
     Integer classEnrolled;
 
     BigDecimal marks;
+
 }

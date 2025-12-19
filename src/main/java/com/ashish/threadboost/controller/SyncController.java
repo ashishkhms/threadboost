@@ -2,9 +2,9 @@ package com.ashish.threadboost.controller;
 
 import com.ashish.threadboost.service.FileService;
 import com.ashish.threadboost.service.SyncUserService;
-import dto.FileDto;
-import dto.UserRequestDto;
-import dto.UserResponseDto;
+import com.ashish.threadboost.dto.FileDto;
+import com.ashish.threadboost.dto.UserRequestDto;
+import com.ashish.threadboost.dto.UserResponseDto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
