@@ -1,8 +1,8 @@
 package com.ashish.threadboost.mapper;
 
 import com.ashish.threadboost.models.User;
-import dto.UserRequestDto;
-import dto.UserResponseDto;
+import com.ashish.threadboost.dto.UserRequestDto;
+import com.ashish.threadboost.dto.UserResponseDto;
 import org.springframework.stereotype.Component;
 
 @Component

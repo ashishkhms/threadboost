@@ -1,4 +1,4 @@
-package dto;
+package com.ashish.threadboost.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
