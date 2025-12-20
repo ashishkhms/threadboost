@@ -31,10 +31,12 @@ I compared two implementations doing identical work on a machine with **12 logic
 ### Performance Evidence
 
 **Synchronous Baseline:**
-![Sync Report Screenshot](assets/sync_report.png)
+<img width="1585" height="901" alt="SyncReport" src="https://github.com/user-attachments/assets/0b2fcd10-1b7e-4e87-ad77-62d009480a64" />
+
 
 **Asynchronous Optimized:**
-![Async Report Screenshot](assets/async_report.png)
+<img width="1580" height="895" alt="AsyncReport" src="https://github.com/user-attachments/assets/8cfa9a87-0b38-4bbd-a390-7e40ced317e1" />
+
 
 ---
 
